@@ -14,6 +14,6 @@ public class ex4_EstruturaRepeticao {
         }
 
         // 4. Mensagem final após o término do loop
-        System.out.println("🚀 Decolar!");
+        System.out.println(" Decolar!");
     }
 }
